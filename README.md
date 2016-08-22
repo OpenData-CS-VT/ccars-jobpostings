@@ -9,7 +9,7 @@ This is a project website for Commonwealth Center for Advanced Research and Stat
 
 * Save the date: [Governor's Workforce Innovation Challenge Datathon 2016](https://data.virginia.gov/datathon-2016)
 * Dataset version 2.1 released (2016-08-21)
-* Checkout the [wiki page](https://github.com/OpenData-CS-VT/ccars-jobpostings/wiki) for all the related dataset and web API
+* Checkout the [wiki page](https://github.com/OpenData-CS-VT/ccars-jobpostings/wiki) for all the dataset and web API related info.
 
 ##Contact
 
