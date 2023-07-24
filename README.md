@@ -4,7 +4,7 @@
 ## Welcome!
 
 
-This is a project website for Commonwealth Center for Advanced Research and Statistics (CCARS) initiated pilot project to create an open "real-time" data set of advertised job postings in Virginia. The Open Data Open Jobs datasets combines data from variety sources. We at [Discovery Analytics Center at Virginia Tech](http://dac.cs.vt.edu) have been tasked with ingesting, cleaning, enriching, and publishing the data from each source and come up with a single data set.
+This is a project website for Commonwealth Center for Advanced Research and Statistics (CCARS) initiated pilot project to create an open "real-time" data set of advertised job postings in Virginia. The Open Data Open Jobs datasets combines data from variety sources. We at [Sanghani Center for Artificial Intelligence & Data Analytics.](https://sanghani.cs.vt.edu/) have been tasked with ingesting, cleaning, enriching, and publishing the data from each source and come up with a single data set.
 
 ## Announcements
 
@@ -14,6 +14,6 @@ This is a project website for Commonwealth Center for Advanced Research and Stat
 
 ## Contact
 
-Having trouble? contact [Rupen](mailto:rupen@.cs.vt.edu)(@rupenp) and we’ll help you sort it out.
+Having trouble? contact [Rupen](mailto:rupen.paul@gmail.com)(@rupenp) and we’ll help you sort it out.
 
 
